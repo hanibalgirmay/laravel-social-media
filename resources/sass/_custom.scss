@@ -1,0 +1,12 @@
+.customBtn {
+    text-decoration: none;
+    border: 1px solid rgb(226, 154, 19);
+    padding: 10px;
+    border-radius: 3px;
+    transition: all .3s ease-in-out;
+}
+
+.customBtn:hover {
+    background-color: rgb(226, 154, 19);
+    color: #fff;
+}
